@@ -1,0 +1,4 @@
+C:/Users/sathi/OneDrive/Desktop/Guvi filter=lfs diff=lfs merge=lfs -text
+dataset/df_sql.csv filter=lfs diff=lfs merge=lfs -text
+venv/Lib/site-packages/xgboost/lib/xgboost.dll filter=lfs diff=lfs merge=lfs -text
+model1_markdown.pkl filter=lfs diff=lfs merge=lfs -text
